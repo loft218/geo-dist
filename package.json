@@ -1,0 +1,15 @@
+{
+  "name": "geo-dist",
+  "version": "1.0.0",
+  "description": "calc distance between Lat/Lng points",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "geo",
+    "distance"
+  ],
+  "author": "loft218",
+  "license": "ISC"
+}
